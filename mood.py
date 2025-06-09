@@ -3,7 +3,6 @@ import json
 import os
 from datetime import datetime
 import pandas as pd
-import matplotlib.pyplot as plt
 
 # --- MoodEntry Class ---
 class MoodEntry:
