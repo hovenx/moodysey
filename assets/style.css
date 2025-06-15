@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+.st-key-blue button {
+    background-color: blue;
+    color: white !important;  /* Ensures text is readable against blue */
+    font-family: 'Oswald', sans-serif !important;
+    font-weight: 400;
+    text-shadow: 0 0 1px rgba(0,0,0,0.3); /* Improves readability */
+}
